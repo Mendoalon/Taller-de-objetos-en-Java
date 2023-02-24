@@ -2,7 +2,7 @@
 
 
 ## Tabla De Contenido.
-1. [Información General](#informacion general)
+1. [Información General](#información-general)
 2. [Instalación](#instalación)
 3. [Tecnologías](#tecnologías)
 4. [Autor](#autor)
